@@ -1,8 +1,11 @@
-Baochun Li:
+"Baochun":
+  - firstname: ["Li"]
     url: https://iqua.ece.toronto.edu/bli/
 
-Cong Wang:
+"Wang":
+  - firstname: ["Cong"]
     url: https://www.cs.cityu.edu.hk/~congwang/
 
-Jiannong Cao:
+"Cao":
+  - firstname: ["Jiannong"]
     url: https://www4.comp.polyu.edu.hk/~csjcao/
