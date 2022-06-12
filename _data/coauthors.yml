@@ -2,10 +2,14 @@
   - firstname: ["Li"]
     url: https://iqua.ece.toronto.edu/bli/
 
-"Wang":
-  - firstname: ["Cong"]
+"Cong":
+  - firstname: ["Wang"]
     url: https://www.cs.cityu.edu.hk/~congwang/
 
-"Cao":
-  - firstname: ["Jiannong"]
+"Jiannong":
+  - firstname: ["Cao"]
     url: https://www4.comp.polyu.edu.hk/~csjcao/
+
+"Hao":
+  - firstname: ["Wang"]
+    url: http://www.wanghao.in/
