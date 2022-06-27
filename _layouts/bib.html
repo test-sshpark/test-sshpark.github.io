@@ -32,21 +32,13 @@
                 {% if author_is_self %}
                   {{author.last}} {{author.first}},&nbsp;
                 {%- else -%}
-                  {% if coauthor_url -%}
-                    <a href="{{coauthor_url}}" style="">{{author.last}} {{author.first}}</a>,&nbsp;
-                  {%- else -%}
                     {{author.last}} {{author.first}},&nbsp;
-                  {%- endif -%}
                 {%- endif -%}
               {%- else -%}
                 {% if author_is_self -%}
                   and {{author.last}} {{author.first}}.
                 {% else -%}
-                  {%- if coauthor_url -%}
-                    and <a href="{{coauthor_url}}" style="">{{author.last}} {{author.first}}</a>.
-                  {% else -%}
                     and {{author.last}} {{author.first}}.
-                  {%- endif -%}
                 {%- endif -%}
               {%- endunless -%}
             {%- endif -%}

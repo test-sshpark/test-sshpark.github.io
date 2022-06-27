@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/
-title: Awards
+permalink: /miscellanea/
+title: Miscellanea
 description: Selected awards
 nav: true
 ---
